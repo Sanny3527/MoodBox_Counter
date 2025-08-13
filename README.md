@@ -18,3 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 ![img alt](https://github.com/Sanny3527/MoodBox_Counter/blob/ae8c17e5f9a03b08e903730a2a957de9e5ddf359/Screenshot%202025-08-14%20001138.png)
 
 ![img alt](https://github.com/Sanny3527/MoodBox_Counter/blob/02de4e7a840479617dc1abdb8cf33e02ac224501/Screenshot%202025-08-14%20001157.png)
+
+![img alt](https://github.com/Sanny3527/MoodBox_Counter/blob/9ea89fcd8f5a9268b9479d380988517b73154f74/Screenshot%202025-08-14%20001228.png)
